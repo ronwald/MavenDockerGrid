@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-06-20T20:08:06 CST" name="Suite" finished-at="2020-06-20T20:08:38 CST" duration-ms="32647">
+    <groups>
+    </groups>
+    <test started-at="2020-06-20T20:08:06 CST" name="Test" finished-at="2020-06-20T20:08:38 CST" duration-ms="32647">
+      <class name="testCases.FirstTest">
+        <test-method is-config="true" signature="startReport(java.lang.String, java.lang.String)[pri:0, instance:testCases.FirstTest@3b938003]" started-at="2020-06-20T20:08:06 CST" name="startReport" finished-at="2020-06-20T20:08:06 CST" duration-ms="112" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method signature="testGoogle()[pri:1, instance:testCases.FirstTest@3b938003]" started-at="2020-06-20T20:08:06 CST" name="testGoogle" finished-at="2020-06-20T20:08:12 CST" duration-ms="6508" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGoogle -->
+        <test-method signature="testYahoo()[pri:2, instance:testCases.FirstTest@3b938003]" started-at="2020-06-20T20:08:12 CST" name="testYahoo" finished-at="2020-06-20T20:08:22 CST" duration-ms="9407" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testYahoo -->
+        <test-method signature="testYoutube()[pri:3, instance:testCases.FirstTest@3b938003]" started-at="2020-06-20T20:08:22 CST" name="testYoutube" finished-at="2020-06-20T20:08:30 CST" duration-ms="8648" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testYoutube -->
+        <test-method signature="testFacebook()[pri:4, instance:testCases.FirstTest@3b938003]" started-at="2020-06-20T20:08:30 CST" name="testFacebook" finished-at="2020-06-20T20:08:38 CST" duration-ms="7719" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFacebook -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.FirstTest@3b938003]" started-at="2020-06-20T20:08:38 CST" name="tearDown" finished-at="2020-06-20T20:08:38 CST" duration-ms="233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.FirstTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
